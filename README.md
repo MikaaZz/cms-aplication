@@ -1,33 +1,23 @@
-![Integrando seu projeto React com APIs](thumbnail.png)
+# CMS Aplication
 
-# Alfood
+Aztar Commerce is a site that lists products and product images.
+It is an MVP that is just beginning and still has many new features to be developed.
 
-O Alfood é um site que lista restaurantes e pratos do menu. 
-É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
+## 🔨 Project Features
 
-<img src="screencapture.png" alt="Imagem do Alfood" width="50%">
+Aztar Commerce lists the products in the store from an API.
 
+## ✔️ Techniques and technologies used
 
-## 🔨 Funcionalidades do projeto
-
-O Alfood começa com uma listagem estática de seu conteúdo e é esse o problema que queremos resolver.
-No decorrer do curso, vamos implementar toda a camada de comunicação com a API.
-
-## ✔️ Técnicas e tecnologias utilizadas
-
-Se liga nessa lista de tudo que usaremos nesse treinamento:
+Here is a list of everything we will use on this platform:
 
 - `React`
 - `React Hooks`
 - `TypeScript`
 - `axios`
 
-## 🛠️ Abrir e rodar o projeto
+## 🛠️ Open and run the project
 
-Para abrir e rodar o projeto, execute npm i para instalar as dependências e npm start para inicar o projeto.
+To open and run the project, run npm i to install the dependencies and npm start to start the project.
 
-Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
-
-## 📚 Mais informações do curso
-
-Busque na plataforma da Alura o curso **Integrando seu projeto React com APIs** publicado na Escola Frontend.
+Then go to <a href="http://localhost:3000/">http://localhost:3000/</a> in your browser.
